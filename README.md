@@ -8,15 +8,15 @@ KwadCoin is a POW/PoS-based cryptocurrency.
 Algorithm 	Scrypt
 Type 	PoW/PoS
 Block reward 	186 coins
-Total coin supply 	156240000 coins
+Total coin supply 	156240000 coins 
 Premine percent 	50%
-Premine amount 	78120000 coins
-PoS percentage 	8% per year
-Last PoW block 	block 230000
-Coinbase maturity 	11 blocks
-Target spacing 	64 seconds
-Target timespan 	1 block
-Transaction confirmations 	6 blocks
+Premine amount 	78120000 coins 
+PoS percentage 	8% per year 
+Last PoW block 	block 230000 
+Coinbase maturity 	11 blocks 
+Target spacing 	64 seconds 
+Target timespan 	1 block 
+Transaction confirmations 	6 blocks 
 RPC port 	19956
 P2P port 	19955
 
